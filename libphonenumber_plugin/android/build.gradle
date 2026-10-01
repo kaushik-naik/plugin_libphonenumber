@@ -47,6 +47,6 @@ android {
     }
 
     dependencies {
-        api 'com.googlecode.libphonenumber:libphonenumber:8.13.4'
+        api 'com.googlecode.libphonenumber:libphonenumber:8.13.50'
     }
 }
